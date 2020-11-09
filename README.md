@@ -15,4 +15,4 @@ Host github.com
 Host gaufre.informatique.univ-paris-diderot.fr
      HostName gaufre.informatique.univ-paris-diderot.fr
      IdentityFile ~/.ssh/id_rsa_visulog
-~                                                                                                                                                                                                                  ~                                                                                                                                                                                                                  ~                                                                                                                                                                                                                  ~                                                                                                                                                                                                                  ~                                                         
+                                              
