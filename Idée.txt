@@ -1,0 +1,15 @@
+
+
+Plateau
+	Case de différentes couleurs
+		Rouge avec coeur
+		Verte avec os 
+		Jaune avec un soleil
+	Obstacle ou on ne peut pas poser ni interagir avec ses cases
+	Animeaux qu'on doit ramener sur les planches
+
+Vie au cas ou tu perds quand la case dépace le plateau
+
+Difficulté en fonction des niveaux
+
+Mode jeu et un mode texte
