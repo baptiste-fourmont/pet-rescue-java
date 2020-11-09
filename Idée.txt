@@ -12,4 +12,6 @@ Vie au cas ou tu perds quand la case dépace le plateau
 
 Difficulté en fonction des niveaux
 
-Mode jeu et un mode texte
+Mode jeu et un mode texte qui doivent tout deux être fonctionnel
+
+Interface pour les cases et les fonctions -- ceci est de la merde c'est juste un test
