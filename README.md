@@ -9,10 +9,12 @@ Tu crées un fichier touch ~/.ssh/config
 
 
 Host github.com
+
     HostName github.com
     IdentityFile ~/.ssh/taclefprojetpourip 
 
 Host gaufre.informatique.univ-paris-diderot.fr
+
      HostName gaufre.informatique.univ-paris-diderot.fr
      IdentityFile ~/.ssh/id_rsa_visulog
                                               
