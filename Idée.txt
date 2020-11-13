@@ -1,5 +1,12 @@
 Un fichier config.txt qui enregistre les options qu'on choisi
 Un fichier save.txt qui enregistre les niveaux qu'on a terminé avec les Difficultés.
+		Les niveaux ne sont pas créer alétoirement -> Il faudra qu'on les stockes et qu'on execute les niveaux en fonction de la progression
+													  de l'utilisateur
+On a l'obligation d'utilsier: Interface Serializable
+	public class blaze implements java.io.Serializable
+	Excepetion en cas de non création: exception java.io.NotSerializableException
+
+http://www.jmdoudoux.fr/java/dej/chap-serialisation.htm
 
 Plateau
 	Case de différentes couleurs
