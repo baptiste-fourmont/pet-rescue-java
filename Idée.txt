@@ -1,4 +1,5 @@
-
+Un fichier config.txt qui enregistre les options qu'on choisi
+Un fichier save.txt qui enregistre les niveaux qu'on a terminé avec les Difficultés.
 
 Plateau
 	Case de différentes couleurs
