@@ -1,5 +1,3 @@
-# pet-rescue-java
-
 # Pet Rescue in Java 
 
 It's a Project during University to create a Game similar to Pet Rescue Saga
