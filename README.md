@@ -17,5 +17,6 @@ You have the possibility:
   - Left decade 
   - Obstacle
  
- It includes other features, but i didn't remember actually
-
+You can actually run it with:
+javac Main.java
+java Main
