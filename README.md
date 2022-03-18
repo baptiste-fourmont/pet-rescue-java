@@ -17,6 +17,10 @@ You have the possibility:
   - Left decade 
   - Obstacle
  
-You can actually run it with:
+ 
+## HOW TO RUN IT !
+
+```java
 javac Main.java
 java Main
+```
